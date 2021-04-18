@@ -1,4 +1,4 @@
-```c
+```
 - 👋 Hi, I’m @d4xn
 - 👀 I’m interested in programming and ethical hacking!
 - 🌱 I’m currently learning a bit of everything...
