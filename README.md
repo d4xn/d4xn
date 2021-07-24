@@ -1,3 +1,7 @@
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d4xn&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xn&langs_count=5&theme=tokyonight)]()
+
+
 ```
 - 👋 Hi, I’m @d4xn
 - 👀 I’m interested in programming and ethical hacking!
