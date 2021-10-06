@@ -1,4 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=d4xn&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=d4xn&hide=contribs,prs&show_icons=true&theme=tokyonight)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xn&langs_count=5&theme=tokyonight)]()
 
 ```
