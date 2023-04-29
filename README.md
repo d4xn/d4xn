@@ -3,10 +3,8 @@
 
 ```
 - 👋 Hi, I’m @d4xn
-- 👀 I’m interested in programming and ethical hacking!
-- 🌱 I’m currently learning a bit of everything...
+- 👀 I’m interested in programming, cp and ethical hacking!
 - 💞️ I’m looking to collaborate on interesting projects!
-- 📫 How to reach me... (Coming soon)
 ```
 
 <!---
